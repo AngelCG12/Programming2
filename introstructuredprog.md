@@ -1,0 +1,1 @@
+On this document we'll make asummary of all the concepts we'll see on the first unit of Programming 2, besides explain the concepts and give the references. This MD document will be made by Gabriel Salazar, Ivan Aguilar and Angel Cabrera
