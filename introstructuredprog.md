@@ -29,7 +29,8 @@ A [template controls](https://whatis.techtarget.com/definition/template)
 the overall look and layout of a site. It provides the framework that brings together common elements, modules and components as well as providing the cascading style sheet for the site. Both the front-end and the back-end of the site have templates.
 Here are some examples:
 A ruler is a template when used to draw a straight line.
-A document in which the standard opening and closing parts are already filled in is a template that you can copy and then fill in the variable parts.
+A document in which the standard opening and closing parts are already filled in is a template that you can copy and then fill in the variable parts.A [template controls](https://whatis.techtarget.com/definition/template)
+
 An overlay that you put on your computer keyboard telling you special key combinations for a particular application is a template for selecting the right keys to press.
 Flowcharting templates (not used much now) help programmers draw flowcharts or logic sequences in preparation for writing the code.
 In programming, a template is a generic class or other unit of source code that can be used as the basis for unique units of code. In C++, an object-oriented computing language, there are Standard Template Libraries from which programmers can choose individual template classes to modify. The Microsoft Foundation Class Library (MFCL) is an example.
